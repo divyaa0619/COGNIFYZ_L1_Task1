@@ -32,5 +32,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab.
 
 <img width="577" height="711" alt="image" src="https://github.com/user-attachments/assets/2cb27909-da4a-4bf5-a64c-7593313b9345" />
 
+📊 Dataset Shape
+
+<img width="623" height="184" alt="image" src="https://github.com/user-attachments/assets/753ca6b3-02c9-4c66-bb50-d6fe6a3f5190" />
+
+
 
 
