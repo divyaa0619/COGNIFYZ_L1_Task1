@@ -25,7 +25,12 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab.
 
 <img width="704" height="470" alt="image" src="https://github.com/user-attachments/assets/3a03248b-88cd-4202-9dca-c6c2d0e647ff" />
 
-
+📊 Dataset Preview
 <img width="1600" height="574" alt="image" src="https://github.com/user-attachments/assets/7a2b931b-6c2b-40c3-bb5a-90592ffb7b78" />
+
+📊 Missing Values Analysis
+
+<img width="577" height="711" alt="image" src="https://github.com/user-attachments/assets/2cb27909-da4a-4bf5-a64c-7593313b9345" />
+
 
 
